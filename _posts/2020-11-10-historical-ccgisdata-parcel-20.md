@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Parcel 2014
-created: '2020-11-10T16:57:08.448391'
-modified: '2020-11-10T16:57:08.448399'
+title: Historical - ccgisdata - Parcel 2013
+created: '2020-11-10T16:57:12.183073'
+modified: '2020-11-10T16:57:12.183083'
 state: active
 type: dataset
 tags:
@@ -14,10 +14,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/yf2z-xf2p/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/3git-3hp2/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/yf2z-xf2p/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/3git-3hp2/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The Parcel 2014 feature contains tax parcel polygons for the 2014 property tax assessment at the County. This feature reflects tax parcel polygons as they existed from 1/1/2014 through 12/31/2014. Each parcel is uniquely identified with a Property Index Number (PIN).
+The Parcel 2013 feature contains tax parcel polygons for the 2013 property tax assessment at the County. This feature reflects tax parcel polygons as they existed from 1/1/2013 through 12/31/2013. Each parcel is uniquely identified with a Property Index Number (PIN).
