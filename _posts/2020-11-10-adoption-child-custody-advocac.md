@@ -1,19 +1,19 @@
 ---
 title: >-
-  Adoption & Child Custody Advocacy - Performance Measures Custody
-  Investigations - 2009
-created: '2020-11-10T16:57:36.347275'
-modified: '2020-11-10T16:57:36.347286'
+  Adoption & Child Custody Advocacy - Adoptive Adoption Investigation Data -
+  2008
+created: '2020-11-10T16:57:45.959556'
+modified: '2020-11-10T16:57:45.959565'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/ivna-ijvj/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/r27u-yuzb/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/ivna-ijvj/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/r27u-yuzb/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The department is court ordered to complete a home investigation to determine which home is most suitable for permanency or increased visitation
+The department is court ordered to complete a home investigation to determine if potential adoptive family whom is seeking permanency is suitable for placement.  This data represents the number of investigations undertaken by this office in 2008
