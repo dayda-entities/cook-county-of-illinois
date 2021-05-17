@@ -1,18 +1,17 @@
 ---
-title: Cook County Recorder of Deeds - Foreclosures - 2012 January 1 to November 29
-created: '2020-11-10T16:57:18.192383'
-modified: '2020-11-10T16:57:18.192394'
+title: Cook County Recorder of Deeds - Quit Claim Deeds - 2011 Complete!
+created: '2020-11-10T16:57:27.555093'
+modified: '2020-11-10T16:57:27.555101'
 state: active
 type: dataset
-tags:
-  - Foreclosures
+tags: []
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/9br9-dhca/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/dskn-nj3p/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/9br9-dhca/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/dskn-nj3p/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Foreclosures recorded from January 1, 2012 through November 29, 2012
+Quit Claim Deeds recorded from January 1, 2011 through December 31, 2011
