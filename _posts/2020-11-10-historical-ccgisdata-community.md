@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Community College Tax District 2016
-created: '2020-11-10T16:57:13.414490'
-modified: '2020-11-10T16:57:13.414500'
+title: Historical - ccgisdata - Community College Tax Dist 2013
+created: '2020-11-10T16:57:10.304562'
+modified: '2020-11-10T16:57:10.304573'
 state: active
 type: dataset
 tags:
@@ -16,10 +16,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/b8q9-dfei/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/shgj-qeea/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/b8q9-dfei/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/shgj-qeea/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Community College Tax Districts in Cook County for tax year 2016.
+Community College Tax Districts in Cook County for tax year 2013.
