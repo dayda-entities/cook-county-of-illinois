@@ -1,9 +1,9 @@
 ---
 title: >-
-  State's Attorney Felony Cases - Initiation Results by Offense Type and
-  Defendant Race
-created: '2020-11-10T16:57:52.926135'
-modified: '2020-11-10T16:57:52.926146'
+  State's Attorney Felony Cases - Average Case Length and Sum of Length, By
+  Offense Type
+created: '2020-11-10T16:57:56.075352'
+modified: '2020-11-10T16:57:56.075363'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/vhdq-rf99/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/wvbp-urjp/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/vhdq-rf99/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/wvbp-urjp/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The Initiation results data presented here reflects all of the arrests that came through the door of the State's Attorneys Office (SAO). Included in this data set are the defendant counts by race and initiation, their associated offense type, and year.
-
-An initiation is how an arrest turns into a “case” in the courts. Most cases are initiated through a process known as felony review, in which SAO attorneys make a decision whether or not to prosecute. Cases may also be indicted by a grand jury or, in narcotics cases, filed directly by law enforcement (labeled "BOND SET (Narcotics)" in this data). Included in this data set are the defendant counts by initiation and year. This data includes felony cases handled by the Criminal, Narcotics, and Special Prosecution Bureaus. It does not include information about cases processed through the Juvenile Justice and Civil Actions Bureaus.
+Sum of Length is an internal calculation used to produce the Average Case Length in a specific offense category. Neither should be read to be associated with any individual case. Rather, the Sum of Length is the number of days in total spent on all the cases in which defendants were charged in a specific charge category combined. The Average Case Length in a particular charge category is then derived by dividing the Sum of Length by the number of defendants.
