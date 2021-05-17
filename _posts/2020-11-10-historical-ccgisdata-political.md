@@ -1,22 +1,21 @@
 ---
-title: Historical - ccgisdata - Political Township 2014
-created: '2020-11-10T16:57:31.072505'
-modified: '2020-11-10T16:57:31.072516'
+title: Historical - ccgisdata - Political Township 2016
+created: '2020-11-10T16:57:51.326030'
+modified: '2020-11-10T16:57:51.326040'
 state: active
 type: dataset
 tags:
   - Boundaries And Districts
   - Cook County
   - Gis
-  - Map
   - Tax District
   - Township
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/jfun-y3wq/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/uwq3-76vw/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/jfun-y3wq/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/uwq3-76vw/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
