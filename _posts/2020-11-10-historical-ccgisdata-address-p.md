@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Address Points for Area 03 (2016)
-created: '2020-11-10T16:57:15.451398'
-modified: '2020-11-10T16:57:15.451409'
+title: Historical - ccgisdata - Address Points for Area 10 (2016)
+created: '2020-11-10T16:57:22.862115'
+modified: '2020-11-10T16:57:22.862125'
 state: active
 type: dataset
 tags:
@@ -10,14 +10,14 @@ tags:
   - Gis
   - Pin
   - Property And Land Records
-  - Survey Township 03
+  - Survey Township 10
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/mmnn-6sr8/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/thqv-eaax/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/mmnn-6sr8/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/thqv-eaax/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This Address Point feature class contains one point for every address in Survey Township 03 (Township 42 N, Range 11 E; see ccgisdata - Survey Township (Area) 2014).
+This Address Point feature class contains one point for every address in Survey Township 10 (Township 41 N, Range 13 E; see ccgisdata - Survey Township (Area) 2014).
