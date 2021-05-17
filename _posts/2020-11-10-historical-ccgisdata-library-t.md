@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Library Tax Dist 2013
-created: '2020-11-10T16:57:12.238375'
-modified: '2020-11-10T16:57:12.238382'
+title: Historical - ccgisdata - Library Tax Dist 2014
+created: '2020-11-10T16:57:22.052912'
+modified: '2020-11-10T16:57:22.052922'
 state: active
 type: dataset
 tags:
@@ -15,9 +15,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/br44-a6xx/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/wu95-7h8e/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/br44-a6xx/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/wu95-7h8e/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
