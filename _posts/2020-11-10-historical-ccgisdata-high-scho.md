@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - High School Tax Dist 2013
-created: '2020-11-10T16:57:26.125400'
-modified: '2020-11-10T16:57:26.125412'
+title: Historical - ccgisdata - High School Tax Dist 2015
+created: '2020-11-10T16:57:26.466127'
+modified: '2020-11-10T16:57:26.466135'
 state: active
 type: dataset
 tags:
@@ -15,9 +15,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/se8b-nidy/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/aiuc-qbqu/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/se8b-nidy/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/aiuc-qbqu/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
