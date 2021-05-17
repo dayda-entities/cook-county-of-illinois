@@ -1,22 +1,22 @@
 ---
-title: Historical - ccgisdata - Cook County Cooling Centers 2018
-created: '2020-11-10T16:57:08.309772'
-modified: '2020-11-10T16:57:08.309783'
+title: Historical - ccgisdata - Cook County Warming Centers
+created: '2020-11-10T16:57:53.402968'
+modified: '2020-11-10T16:57:53.402981'
 state: active
 type: dataset
 tags:
-  - Cool
-  - Cooling Shelter
+  - Cold Temperatures
+  - Heat
   - Places Of Interest
   - Shelter
-  - Warm Temperatures
+  - Warming Center
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/r9u9-s9h7/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/2xa4-644r/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/r9u9-s9h7/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/2xa4-644r/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Municipalities around Cook County have opened cooling centers for area residents as temperatures start to rise. Residents who need to seek shelter should contact the center first to verify it is open. This dataset will be no longer updated on May 1, 2019. Please refer to this link for future updates: https://datacatalog.cookcountyil.gov/dataset/Cook-County-Cooling-Centers-Map/dnn9-esge
+Municipalities around Cook County have opened warming centers for area residents as temperatures start to drop. Residents who need to seek shelter should contact the center first to verify it is open.
