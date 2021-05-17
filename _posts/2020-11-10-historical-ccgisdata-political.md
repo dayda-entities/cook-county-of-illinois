@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Political Township 2015
-created: '2020-11-10T16:57:12.578453'
-modified: '2020-11-10T16:57:12.578463'
+title: Historical - ccgisdata - Political Township 2012
+created: '2020-11-10T16:57:17.339122'
+modified: '2020-11-10T16:57:17.339129'
 state: active
 type: dataset
 tags:
@@ -14,9 +14,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/w3vu-isq5/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/gi8c-v46x/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/w3vu-isq5/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/gi8c-v46x/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
