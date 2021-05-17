@@ -1,11 +1,10 @@
 ---
-title: Historical - ccgisdata - Sanitary Tax Dist 2016
-created: '2020-11-10T16:57:14.225488'
-modified: '2020-11-10T16:57:14.225498'
+title: Historical - ccgisdata - Sanitary Tax Dist 2015
+created: '2020-11-10T16:57:30.677164'
+modified: '2020-11-10T16:57:30.677175'
 state: active
 type: dataset
 tags:
-  - Boundaries And Districts
   - Clerk
   - Cook
   - Gis
@@ -15,9 +14,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/qz59-j4yd/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/qtyv-vtbp/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/qz59-j4yd/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/qtyv-vtbp/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
