@@ -1,17 +1,22 @@
 ---
-title: Environmental Control - Asbestos Demolition Permits - 2012 Q3
-created: '2020-11-10T16:57:45.197802'
-modified: '2020-11-10T16:57:45.197809'
+title: Environmental Control - Asbestos Removal Permits - 2010
+created: '2020-11-10T16:57:21.464150'
+modified: '2020-11-10T16:57:21.464161'
 state: active
 type: dataset
-tags: []
+tags:
+  - Asbestos Removal
+  - Buildings Hazardous Materials
+  - Demolition
+  - Environmental Control
+  - Permits
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/qkzq-fgkt/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/b4e6-7ck8/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/qkzq-fgkt/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/b4e6-7ck8/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-From the Department of Environmental Control, a dataset of asbestos demolition permits for 3Q 2012.
+Address and fee information for Asbestos Removal Permits in 2010
