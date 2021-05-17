@@ -1,17 +1,19 @@
 ---
-title: Administrative Hearings - Ticket Summary Report - September 2011 to March 2012
-created: '2020-11-10T16:57:39.920968'
-modified: '2020-11-10T16:57:39.920978'
+title: >-
+  Administrative Hearings - Ticket Summary Without Payments Report - FY2011
+  through September 27th, 2011
+created: '2020-11-10T16:57:38.664157'
+modified: '2020-11-10T16:57:38.664168'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/kyty-9fmm/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/jz2x-hnaw/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/kyty-9fmm/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/jz2x-hnaw/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Data covers September 2011 through March 2012.
+Data last updated September 27th, 2011.
