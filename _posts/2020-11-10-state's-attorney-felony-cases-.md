@@ -1,7 +1,7 @@
 ---
-title: State's Attorney Felony Cases - Disposition Outcomes By Offense Type
-created: '2020-11-10T16:57:24.781134'
-modified: '2020-11-10T16:57:24.781144'
+title: State's Attorney Felony Cases - Sentences By Offense Type
+created: '2020-11-10T16:57:27.663092'
+modified: '2020-11-10T16:57:27.663102'
 state: active
 type: dataset
 tags:
@@ -9,10 +9,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/cse8-ib7b/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/e3fw-bkbw/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/cse8-ib7b/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/e3fw-bkbw/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The disposition data presented in this report reflects the culmination of the fact-finding process that leads to the resolution of a case. Included in this data set are the defendant counts by disposition, their associated offense type, and year.
+The sentencing data presented in this report reflects the judgement imposed by the court on people that have been found guilty. The data is recorded by count, meaning by each individual cause of action, and each count receives a sentence. Included in this data set are the defendant counts by sentence, their associated offense type, and year.
