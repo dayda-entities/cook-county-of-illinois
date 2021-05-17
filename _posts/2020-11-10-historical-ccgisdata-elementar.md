@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Elementary School Tax District 2014
-created: '2020-11-10T16:57:43.215731'
-modified: '2020-11-10T16:57:43.215743'
+title: Historical - ccgisdata - Elementary School Tax Dist 2012
+created: '2020-11-10T16:57:14.199126'
+modified: '2020-11-10T16:57:14.199137'
 state: active
 type: dataset
 tags:
@@ -16,9 +16,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/unc9-k249/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/vkxu-e959/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/unc9-k249/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/vkxu-e959/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
