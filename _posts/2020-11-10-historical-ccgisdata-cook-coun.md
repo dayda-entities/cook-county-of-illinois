@@ -1,22 +1,21 @@
 ---
-title: Historical - ccgisdata - Cook County Warming Centers
-created: '2020-11-10T16:57:53.402968'
-modified: '2020-11-10T16:57:53.402981'
+title: Historical - ccgisdata - Cook County Highway Jurisdiction 2015
+created: '2020-11-10T16:57:57.191805'
+modified: '2020-11-10T16:57:57.191816'
 state: active
 type: dataset
 tags:
-  - Cold Temperatures
-  - Heat
-  - Places Of Interest
-  - Shelter
-  - Warming Center
+  - Highway
+  - Transportation
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/2xa4-644r/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/dt9b-rg99/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/2xa4-644r/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/dt9b-rg99/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Municipalities around Cook County have opened warming centers for area residents as temperatures start to drop. Residents who need to seek shelter should contact the center first to verify it is open.
+This dataset contains roads under Cook County jurisdiction. The MAINT attribute is "True" for roads maintained by the County 
+
+Data last updated 06/19/2015.
