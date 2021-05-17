@@ -1,9 +1,7 @@
 ---
-title: >-
-  Budget - Fiscal Year 2017 Executive Recommendation - Budget Summary Of
-  Positions By Business Unit
-created: '2020-11-10T16:57:30.096043'
-modified: '2020-11-10T16:57:30.096051'
+title: Budget - Fiscal Year 2017 Executive Recommendation - Capital Equipment
+created: '2020-11-10T16:57:46.746483'
+modified: '2020-11-10T16:57:46.746493'
 state: active
 type: dataset
 tags:
@@ -12,10 +10,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/fwar-bpxm/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/rn9a-dra6/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/fwar-bpxm/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/rn9a-dra6/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Executive Recommendation for the Fiscal Year 2017 Budget Summary of Positions by Business Unit. For more information on the budget and schedule of public hearings see http://www.cookcountyil.gov/budget/
+Executive Recommendation for the Fiscal Year 2017 Budget Capital Equipment. For more information on the budget and schedule of public hearings see http://www.cookcountyil.gov/budget/
