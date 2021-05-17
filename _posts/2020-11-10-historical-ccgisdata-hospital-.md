@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Hospital Boundary 2014
-created: '2020-11-10T16:57:56.690010'
-modified: '2020-11-10T16:57:56.690018'
+title: Historical - ccgisdata - Hospital Point 2014
+created: '2020-11-10T16:57:54.144781'
+modified: '2020-11-10T16:57:54.144792'
 state: active
 type: dataset
 tags:
@@ -16,10 +16,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/6h9w-qcb8/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/i7ik-crdu/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/6h9w-qcb8/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/i7ik-crdu/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The purpose of this dataset is to indicate the boundary of each hospital in Cook County, Illinois.
+The purpose of this dataset is to indicate a central location within (when a single feature) or among all the polygons (when a multi-part feature) that constitute that complete cultural feature area of each hospital in Cook County, Illinois.
