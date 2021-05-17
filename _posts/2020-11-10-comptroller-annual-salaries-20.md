@@ -1,18 +1,19 @@
 ---
-title: Comptroller - Annual Salaries - 2013
-created: '2020-11-10T16:57:30.149702'
-modified: '2020-11-10T16:57:30.149709'
+title: Comptroller - Annual Salaries - 2014 - August 28
+created: '2020-11-10T16:57:33.224737'
+modified: '2020-11-10T16:57:33.224749'
 state: active
 type: dataset
 tags:
   - Payroll
+  - Salary
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/fxa5-tdd8/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/hdna-35se/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/fxa5-tdd8/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/hdna-35se/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Annual salaries paid to employees by the Cook County Comptroller as of March 5, 2013. Does not include deduction for furlough or closure days for employees subject to furloughs and closures. Does not include amounts paid by other governmental entities. For 2014 salaries see https://datacatalog.cookcountyil.gov/resource/hdna-35se
+Annual salaries paid to employees by the Cook County Comptroller as of August 28, 2014. For 2015 data see https://datacatalog.cookcountyil.gov/d/9tzu-m4zi.
