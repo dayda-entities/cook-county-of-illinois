@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Sanitary Tax Dist 2014
-created: '2020-11-10T16:57:13.036061'
-modified: '2020-11-10T16:57:13.036068'
+title: Historical - ccgisdata - Sanitary Tax Dist 2013
+created: '2020-11-10T16:57:45.808185'
+modified: '2020-11-10T16:57:45.808196'
 state: active
 type: dataset
 tags:
@@ -15,9 +15,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/gafa-u289/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/kt8y-vj55/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/gafa-u289/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/kt8y-vj55/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
