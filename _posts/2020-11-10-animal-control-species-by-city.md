@@ -1,17 +1,17 @@
 ---
-title: Animal Control - Species By City - Fiscal Year 2010
-created: '2020-11-10T16:57:54.938634'
-modified: '2020-11-10T16:57:54.938644'
+title: Animal Control - Species by City And Gender - Fiscal Year 2010
+created: '2020-11-10T16:57:41.877234'
+modified: '2020-11-10T16:57:41.877244'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/w3ph-28pq/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/nfgr-xadh/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/w3ph-28pq/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/nfgr-xadh/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Species by city for fiscal year 2010
+A breakdown of registered animals by City and gender in Fiscal Year 2010
