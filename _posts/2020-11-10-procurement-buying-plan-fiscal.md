@@ -1,16 +1,16 @@
 ---
-title: Procurement - Buying Plan - Fiscal Year 2018
-created: '2020-11-10T16:57:58.664576'
-modified: '2020-11-10T16:57:58.664583'
+title: Procurement - Buying Plan - Fiscal Year 2017
+created: '2020-11-10T16:57:43.380896'
+modified: '2020-11-10T16:57:43.380906'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/ymau-3avu/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/pads-xcm2/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/ymau-3avu/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/pads-xcm2/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
