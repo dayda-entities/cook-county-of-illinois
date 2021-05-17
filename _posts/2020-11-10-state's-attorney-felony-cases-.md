@@ -1,9 +1,9 @@
 ---
 title: >-
-  State's Attorney Felony Cases - Average Case Length and Sum of Length, By
-  Offense Type
-created: '2020-11-10T16:57:56.075352'
-modified: '2020-11-10T16:57:56.075363'
+  State's Attorney Felony Cases - Disposition Outcomes By Offense Type and
+  Defendant Gender
+created: '2020-11-10T16:57:08.059030'
+modified: '2020-11-10T16:57:08.059036'
 state: active
 type: dataset
 tags:
@@ -11,10 +11,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/wvbp-urjp/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/29uw-xpvs/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/wvbp-urjp/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/29uw-xpvs/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Sum of Length is an internal calculation used to produce the Average Case Length in a specific offense category. Neither should be read to be associated with any individual case. Rather, the Sum of Length is the number of days in total spent on all the cases in which defendants were charged in a specific charge category combined. The Average Case Length in a particular charge category is then derived by dividing the Sum of Length by the number of defendants.
+The disposition data presented in this report reflects the culmination of the fact-finding process that leads to the resolution of a case. Included in this data set are the defendant counts by gender and disposition, their associated offense type, and year.
