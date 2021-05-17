@@ -1,18 +1,18 @@
 ---
 title: >-
-  Facilities Management - Fire Panel Report, by Location, with Detail - July
+  Facilities Management - Fire Panel Report, by Location, with Detail - August
   2011
-created: '2020-11-10T16:57:25.582542'
-modified: '2020-11-10T16:57:25.582552'
+created: '2020-11-10T16:57:31.957489'
+modified: '2020-11-10T16:57:31.957500'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/czk5-5ryh/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/gw67-49cq/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/czk5-5ryh/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/gw67-49cq/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
