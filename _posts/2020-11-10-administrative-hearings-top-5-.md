@@ -1,19 +1,19 @@
 ---
 title: >-
-  Administrative Hearings - Top 5 Violations Report, all Departments - Fiscal
-  Year 2011 Incomplete
-created: '2020-11-10T16:57:52.537566'
-modified: '2020-11-10T16:57:52.537576'
+  Administrative Hearings - Top 5 Cigarette Tax Violations - Fiscal Year 2011
+  Incomplete
+created: '2020-11-10T16:57:17.277152'
+modified: '2020-11-10T16:57:17.277162'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/ve4u-p8xt/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/8fje-a3js/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/ve4u-p8xt/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/8fje-a3js/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Data covers December 2010 through August 2011
+Data covers December 1, 2010 through September 22, 2011
