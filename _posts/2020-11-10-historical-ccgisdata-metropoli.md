@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Metropolitan Water Reclamation Tax Dist 2014
-created: '2020-11-10T16:57:35.419422'
-modified: '2020-11-10T16:57:35.419431'
+title: Historical - ccgisdata - Metropolitan Water Reclamation Tax Dist 2013
+created: '2020-11-10T16:57:13.563252'
+modified: '2020-11-10T16:57:13.563263'
 state: active
 type: dataset
 tags:
@@ -16,9 +16,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/kazx-v9zn/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/ntr8-568s/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/kazx-v9zn/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/ntr8-568s/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
