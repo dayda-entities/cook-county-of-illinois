@@ -1,20 +1,22 @@
 ---
-title: Historical - ccgisdata - Tax Increment Financing (TIF) Districts 2016
-created: '2020-11-10T16:57:12.017232'
-modified: '2020-11-10T16:57:12.017242'
+title: Historical - ccgisdata - Tax Increment Financing (TIF) Districts 2015
+created: '2020-11-10T16:57:47.580182'
+modified: '2020-11-10T16:57:47.580189'
 state: active
 type: dataset
 tags:
   - Boundaries And Districts
   - Clerk
-  - Tax
+  - Cook County
+  - Gis
+  - Map
   - Tif
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/kaqq-qmkn/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/4kkq-apnr/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/kaqq-qmkn/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/4kkq-apnr/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
