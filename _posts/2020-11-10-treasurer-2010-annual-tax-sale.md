@@ -1,17 +1,17 @@
 ---
-title: Treasurer - 2010 Annual Tax Sale Forfeited PINS
-created: '2020-11-10T16:57:36.904561'
-modified: '2020-11-10T16:57:36.904571'
+title: Treasurer - 2010 Annual Tax Sale Registered Buyers
+created: '2020-11-10T16:57:30.498061'
+modified: '2020-11-10T16:57:30.498068'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/iydd-mh8u/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/g322-ktce/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/iydd-mh8u/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/g322-ktce/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This file contains data on the 2010 Annual Tax Sale Forfeited PIN's.
+2010 Tax Sale Registered Buyers. They are registered to purchase taxes on property that have not been paid for 2 years
