@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Parcel 2003
-created: '2020-11-10T16:57:31.019326'
-modified: '2020-11-10T16:57:31.019333'
+title: Historical - ccgisdata - Parcel 2015
+created: '2020-11-10T16:57:42.976150'
+modified: '2020-11-10T16:57:42.976156'
 state: active
 type: dataset
 tags:
@@ -14,10 +14,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/anwy-2bet/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/trnc-t2et/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/anwy-2bet/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/trnc-t2et/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-The Parcel 2003 feature contains tax parcel polygons for the 2003 property tax assessment at the County. This feature reflects tax parcel polygons as they existed from 1/1/2003 through 12/31/2003. Each parcel is uniquely identified with a Property Index Number (PIN).
+The Parcel 2015 feature contains tax parcel polygons for the 2015 property tax assessment at the County. This feature reflects tax parcel polygons as they existed from 1/1/2015 through 12/31/2015. Each parcel is uniquely identified with a Property Index Number (PIN).
