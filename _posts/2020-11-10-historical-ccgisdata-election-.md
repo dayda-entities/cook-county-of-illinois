@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Election Precinct Data 2011
-created: '2020-11-10T16:57:49.636809'
-modified: '2020-11-10T16:57:49.636820'
+title: Historical - ccgisdata - Election Precinct Data - 2015 to 2016
+created: '2020-11-10T16:57:40.723737'
+modified: '2020-11-10T16:57:40.723748'
 state: active
 type: dataset
 tags:
@@ -14,10 +14,10 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/8xd4-7sya/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/ntsd-rhpm/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/8xd4-7sya/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/ntsd-rhpm/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This data includes 2011 precincts used for all elections 2012 thru 2015. The purpose of the feature class is to describe and locate election precincts in Cook County, Illinois for general use by the public and business requirements of the Cook County Election Department, the Clerk's Office, and the Illinois Board of Elections.
+Election Precinct Data- Current consists of 2015 precincts used for the 2016 primary and general elections. The purpose of the feature class is to describe and locate election precincts in Cook County, Illinois for general use by the public and business requirements of the Cook County Election Department, the Clerk's Office, and the Illinois Board of Elections.
