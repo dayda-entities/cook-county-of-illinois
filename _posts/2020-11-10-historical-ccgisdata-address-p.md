@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Address Points for Area 20 (2016)
-created: '2020-11-10T16:57:07.735697'
-modified: '2020-11-10T16:57:07.735706'
+title: Historical - ccgisdata - Address Points for Area 25 (2016)
+created: '2020-11-10T16:57:14.716329'
+modified: '2020-11-10T16:57:14.716336'
 state: active
 type: dataset
 tags:
@@ -10,14 +10,14 @@ tags:
   - Gis
   - Pin
   - Property And Land Records
-  - Survey Township 20
+  - Survey Township 25
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/vc32-sqx2/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/im9y-zgs9/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/vc32-sqx2/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/im9y-zgs9/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This Address Point feature class contains one point for every address in Survey Township 20 (Township 38 N, Range 14 E; see ccgisdata - Survey Township (Area) 2014).
+This Address Point feature class contains one point for every address in Survey Township 25 (Township 37 N, Range 14 E; see ccgisdata - Survey Township (Area) 2014).
