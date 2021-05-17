@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Right-of-Way 2012
-created: '2020-11-10T16:57:45.871751'
-modified: '2020-11-10T16:57:45.871762'
+title: Historical - ccgisdata - Right-Of-Way 2015
+created: '2020-11-10T16:57:41.673528'
+modified: '2020-11-10T16:57:41.673539'
 state: active
 type: dataset
 tags:
@@ -16,9 +16,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/ey78-wbch/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/avd9-rtph/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/ey78-wbch/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/avd9-rtph/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
