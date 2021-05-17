@@ -1,17 +1,18 @@
 ---
-title: Cook County Recorder of Deeds - Mortgages - 2011 Complete!
-created: '2020-11-10T16:57:08.890481'
-modified: '2020-11-10T16:57:08.890492'
+title: Cook County Recorder of Deeds - Foreclosures - 2012 January 1 to November 29
+created: '2020-11-10T16:57:18.192383'
+modified: '2020-11-10T16:57:18.192394'
 state: active
 type: dataset
-tags: []
+tags:
+  - Foreclosures
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/33fu-uwca/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/9br9-dhca/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/33fu-uwca/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/9br9-dhca/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Mortgages recorded between January 1, 2011 and December 31, 2011
+Foreclosures recorded from January 1, 2012 through November 29, 2012
