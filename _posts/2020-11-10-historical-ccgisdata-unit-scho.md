@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Unit School Tax Dist 2013
-created: '2020-11-10T16:57:13.418905'
-modified: '2020-11-10T16:57:13.418915'
+title: Historical - ccgisdata - Unit School Tax Districts 2015
+created: '2020-11-10T16:57:20.762673'
+modified: '2020-11-10T16:57:20.762680'
 state: active
 type: dataset
 tags:
@@ -15,9 +15,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/a2wf-rai8/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/u8pj-4dkv/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/a2wf-rai8/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/u8pj-4dkv/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
