@@ -1,17 +1,17 @@
 ---
-title: 'Medical Examiner--2009 Deaths, by Gender, Age, and Race'
-created: '2020-11-10T16:57:12.821586'
-modified: '2020-11-10T16:57:12.821613'
+title: 'Medical Examiner--2009 Deaths, by Month'
+created: '2020-11-10T16:57:31.340042'
+modified: '2020-11-10T16:57:31.340053'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/5px6-amgc/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/gjq9-ajxp/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/5px6-amgc/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/gjq9-ajxp/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-Updated 10/24/2011.  From the Medical Examiner's 2009 Annual Report, deaths of autopsied people by gender, age range and race.
+From the 2009 Medical Examiner's Annual Report, deaths by month they occurred
