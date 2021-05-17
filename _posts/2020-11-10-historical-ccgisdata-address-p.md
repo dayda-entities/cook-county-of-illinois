@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Address Points for Area 22 (2016)
-created: '2020-11-10T16:57:40.522175'
-modified: '2020-11-10T16:57:40.522182'
+title: Historical - ccgisdata - Address Points for Area 06 (2016)
+created: '2020-11-10T16:57:42.411098'
+modified: '2020-11-10T16:57:42.411108'
 state: active
 type: dataset
 tags:
@@ -10,14 +10,14 @@ tags:
   - Gis
   - Pin
   - Property And Land Records
-  - Survey Township 22
+  - Survey Township 06
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/feph-63em/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/7in2-wg2d/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/feph-63em/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/7in2-wg2d/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This Address Point feature class contains one point for every address in Survey Township 22 (Township 37 N, Range 11 E; see ccgisdata - Survey Township (Area) 2014).
+This Address Point feature class contains one point for every address in Survey Township 06 (Township 41 N, Range 9 E; see ccgisdata - Survey Township (Area) 2014).
