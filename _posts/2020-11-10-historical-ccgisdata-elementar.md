@@ -1,23 +1,24 @@
 ---
-title: Historical - ccgisdata - Elementary School Tax District 2015
-created: '2020-11-10T16:57:57.705031'
-modified: '2020-11-10T16:57:57.705042'
+title: Historical - ccgisdata - Elementary School Tax District 2013
+created: '2020-11-10T16:57:57.469794'
+modified: '2020-11-10T16:57:57.469801'
 state: active
 type: dataset
 tags:
   - Boundaries And Districts
   - Clerk
   - Cook
-  - Elementary Schools
+  - Elementary
   - Gis
+  - School
   - Taxing Agency
   - Taxing District
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/tp5a-vuz9/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/mvn9-m2ca/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/tp5a-vuz9/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/mvn9-m2ca/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
