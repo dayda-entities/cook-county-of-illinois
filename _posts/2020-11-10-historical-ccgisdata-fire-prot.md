@@ -1,7 +1,7 @@
 ---
-title: Historical - ccgisdata - Fire Protection Tax Dist 2012
-created: '2020-11-10T16:57:42.761564'
-modified: '2020-11-10T16:57:42.761575'
+title: Historical - ccgisdata - Fire Protection Tax Dist 2014
+created: '2020-11-10T16:57:16.707308'
+modified: '2020-11-10T16:57:16.707319'
 state: active
 type: dataset
 tags:
@@ -16,9 +16,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/kpui-g55i/rows.csv?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/dmkf-ujfk/rows.csv?accessType=DOWNLOAD
 json_url: >-
-  https://datacatalog.cookcountyil.gov/api/views/kpui-g55i/rows.json?accessType=DOWNLOAD
+  https://datacatalog.cookcountyil.gov/api/views/dmkf-ujfk/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
